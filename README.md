@@ -1,7 +1,7 @@
 <div align="center">
   <br />
   <a href="https://mashhood-portfolio.vercel.app/" target="_blank">
-    <img src="./src/assets/screenshot.png" alt="Portfolio Screenshot">
+    <img src="./src/assets/Screenshot.png" alt="Portfolio Screenshot">
   </a>
   <br />
 
@@ -78,5 +78,5 @@ Make sure you have the following installed on your machine:
 **Cloning the Repository**
 
 ```bash
-git clone [your-repo-url]
+git clone https://github.com/f223417/portfolio.git
 cd Muhammad-Mashhood-Portfolio
