@@ -72,9 +72,13 @@ const About = () => {
       </div>
 
       <p ref={paragraphRef} className="mt-4 text-secondary text-[17px] max-w-3xl leading-[30px]">
-        I'm a skilled software developer with experience in  JavaScript, and expertise in frameworks 
-        like React, Node.js, and Three.js. I'm a quick learner and collaborate closely with clients to create efficient, 
-        scalable, and user-friendly solutions that solve real-world problems. Let's work together to bring your ideas to life!
+        I'm a skilled developer with expertise in cloud engineering on AWS and machine learning technologies. 
+        I have experience with Python, Node.js, and React frameworks for building scalable applications. 
+        I specialize in creating cloud-native solutions with a focus on serverless architectures
+        and developing machine learning models for practical applications.
+        I'm a quick learner and collaborate closely with clients to create efficient, 
+        scalable, and user-friendly solutions that solve real-world problems.
+        Let's work together to bring your ideas to life!
       </p>
 
       <div className="mt-20 grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 justify-items-center gap-10">
